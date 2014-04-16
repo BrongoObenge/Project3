@@ -1,0 +1,13 @@
+.left-panel {    
+	width: 750px;
+    	float: left;
+    	padding: 20px 50px 20px 20px;
+        padding-top: 20px;
+        padding-right-value: 50px;
+        padding-bottom: 20px;
+        padding-left-value: 20px;
+        padding-left-ltr-source: physical;
+        padding-left-rtl-source: physical;
+        padding-right-ltr-source: physical;
+        padding-right-rtl-source: physical;
+}
